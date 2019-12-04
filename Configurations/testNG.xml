@@ -1,0 +1,10 @@
+<suite name="Vodafoners">
+	<test name="LoginTest">
+		<classes>
+			<class name="VodafoneEgypt.Vodafoners.Login.LoginExecuter"/>
+			<class name="VodafoneEgypt.Vodafoners.ExtentReport"/>
+				<Methodes>
+				</Methodes>
+		</classes>
+	</test>
+</suite>

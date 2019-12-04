@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94925" started-at="2019-12-04T10:05:42Z" finished-at="2019-12-04T10:07:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94925" started-at="2019-12-04T10:05:42Z" finished-at="2019-12-04T10:07:17Z">
+      <class name="swvl.assessment">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:swvl.assessment@59494225]" name="setUp" is-config="true" duration-ms="8351" started-at="2019-12-04T10:05:42Z" finished-at="2019-12-04T10:05:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:1, instance:swvl.assessment@59494225]" name="login" duration-ms="25240" started-at="2019-12-04T10:05:50Z" finished-at="2019-12-04T10:06:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="reserveAtrip()[pri:2, instance:swvl.assessment@59494225]" name="reserveAtrip" duration-ms="42082" started-at="2019-12-04T10:06:15Z" finished-at="2019-12-04T10:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reserveAtrip -->
+        <test-method status="PASS" signature="cancelAtrip()[pri:3, instance:swvl.assessment@59494225]" name="cancelAtrip" duration-ms="19232" started-at="2019-12-04T10:06:57Z" finished-at="2019-12-04T10:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelAtrip -->
+      </class> <!-- swvl.assessment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
